@@ -8,7 +8,7 @@ This is where your description should go. Try and limit it to a paragraph or two
 
 ## Requirements
 - Inertia.js 설정 필요(https://ssa4141.tistory.com/139?category=964558 참고)
-- 메일 설정 필요(https://ssa4141.tistory.com/95 참고)
+- 메일 설정 및 비밀번호 초기화 세팅 필요(https://ssa4141.tistory.com/95 참고)
 - 네이버, 카카오 등 각 사이트에서 페이지 등록 필요
 - 기존 create_users가 아닌 패키지에서 제공하는 create_users migration 필요
 
