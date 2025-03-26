@@ -18,7 +18,6 @@
     "require": {
         "php": "^7.4|^8.0|^8.1",
         "illuminate/support": "^8.0 || ^9.0 || ^10.0",
-        "inertiajs/inertia-laravel": "^0.4.4",
         "laravel/socialite": "^5.2",
         "socialiteproviders/facebook": "^4.1",
         "socialiteproviders/google": "^4.1",
